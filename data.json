@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Artur",
+      "salary": 310000
+    },
+    {
+      "id": "102",
+      "name": "Diana",
+      "salary": 200000
+    },
+    {
+      "id": "103",
+      "name": "Artur",
+      "salary": 18000
+    },
+    {
+      "id": "104",
+      "name": "Anna",
+      "salary": 70000
+    },
+    {
+      "id": "31da",
+      "name": "Elina",
+      "salary": "12000"
+    },
+    {
+      "id": "867e",
+      "name": "Sona",
+      "salary": "123"
+    },
+    {
+      "id": 1730114542972,
+      "name": "Hrant",
+      "salary": "12333"
+    },
+    {
+      "id": "42ed",
+      "name": "Emanuel"
+    },
+    {
+      "id": "35a6",
+      "name": "Erik ",
+      "salary": "200000"
+    }
+  ]
+}
